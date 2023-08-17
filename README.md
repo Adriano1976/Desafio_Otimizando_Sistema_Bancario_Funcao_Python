@@ -69,5 +69,5 @@ O **Simulador Bancário** oferece uma maneira simples de simular operações ban
 
 Superar esses desafios exigiu um bom entendimento das regras bancárias, bem como habilidades de programação sólidas para implementar as funcionalidades de maneira precisa e eficaz. Além disso, foi necessário testar e ajustar o código para garantir que ele funcione corretamente em várias situações e com diferentes entradas do usuário.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
 </div>
