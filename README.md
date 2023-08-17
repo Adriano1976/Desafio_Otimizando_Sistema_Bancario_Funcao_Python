@@ -1,5 +1,7 @@
 # Desafio Otimizando Sistema Bancario Com Funções Python
 
+![python](https://github.com/Adriano1976/Sistema-Bancario-com-Python/assets/17755195/2db44fad-36b6-440c-8fd6-7c111ee821a4)
+
 Neste desafio, tive a oportunidade de otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Tive a chance de refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. Com isso, tive a oportunidade de aplicar os conceitos avançados de programação e demonstrar minha habilidade em criar soluções mais elegantes e eficientes utilizando Python.
 
 # Simulador Bancário
@@ -66,3 +68,6 @@ O **Simulador Bancário** oferece uma maneira simples de simular operações ban
 7. **Integração de Funções**: Fazer com que as diferentes partes do código funcionem harmoniosamente pode ser um desafio. As funções precisam interagir corretamente e compartilhar informações de forma precisa para garantir que o programa funcione como um todo.
 
 Superar esses desafios exigiu um bom entendimento das regras bancárias, bem como habilidades de programação sólidas para implementar as funcionalidades de maneira precisa e eficaz. Além disso, foi necessário testar e ajustar o código para garantir que ele funcione corretamente em várias situações e com diferentes entradas do usuário.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
